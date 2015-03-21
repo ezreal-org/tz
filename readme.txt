@@ -1,2 +1,2 @@
 we'd like to restart tz plan.
-remote control.
+remote control under the GPL.
